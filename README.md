@@ -8,9 +8,10 @@ Sistema para gerenciamento de uma horta, permitindo cadastrar plantas e acompanh
 🛠️ Tecnologias
 Java
 NetBeans
+
 ▶️ Como executar
-Abra o projeto no NetBeans.
-Execute a classe principal (TelaLogin.java).
+1. Abra o projeto no NetBeans.
+2. Execute a classe principal (TelaLogin.java).
 Cadastre sua plantinha.
 Em seguida, o botão te enviará para uma tela de categorias de plantas, o sistema irá mostrar automaticamente uma foto de plantas da categoria da sua plantinha.
 Entrando nessa tela, você poderá acompanhar os cuidados da planta, como água e colheita.
